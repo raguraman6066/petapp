@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "757187261170",
+    "project_id": "newpetapp-9c3fd",
+    "storage_bucket": "newpetapp-9c3fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757187261170:android:41fd70f810085ac08a166b",
+        "android_client_info": {
+          "package_name": "com.example.newpetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757187261170-25pt3cfvcsfdmabni5q1gjvol4jcarck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ3lewGof_O9sHFWOtGLQmG5jWhxHbRCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757187261170-25pt3cfvcsfdmabni5q1gjvol4jcarck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
